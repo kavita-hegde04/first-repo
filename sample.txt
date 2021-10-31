@@ -2,3 +2,4 @@ Sample file contents:
 
 #This is the first comment for clone
 #this comment is for pull
+#This comment is for push
