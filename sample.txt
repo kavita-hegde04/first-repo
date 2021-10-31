@@ -1,0 +1,3 @@
+Sample file contents:
+
+#This is the first comment for clone
